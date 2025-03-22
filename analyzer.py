@@ -9,7 +9,8 @@ import google.generativeai as genai
 from dotenv import load_dotenv  # Import dotenv
 
 # Load environment variables from .env file
-load_dotenv()
+dotenv_path = "/mount/src/resume-analyzer/.env"  # Adjust path if needed
+load_dotenv(dotenv_path)
 
 # Configure logging
 logging.basicConfig(
