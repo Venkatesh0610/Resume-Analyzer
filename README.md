@@ -65,7 +65,8 @@ streamlit run app.py
 
 --- 
 
-🔗 ##**Watch the full tutorial on YouTube**: 
+🔗**Watch the full tutorial on YouTube**: 
+
 [![Watch the video](https://img.youtube.com/vi/QBExhbLXlJc/0.jpg)](https://youtu.be/QBExhbLXlJc?si=9ApFrJw1oSjC_zcp)
 
 ---
